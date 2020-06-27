@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2c5afdc-bdaa-4d0b-9612-18e73cf4109c" name="Default Changelist" comment="1" />
+    <list default="true" id="a2c5afdc-bdaa-4d0b-9612-18e73cf4109c" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,8 +179,16 @@
       <workItem from="1593183351770" duration="1400000" />
       <workItem from="1593220142510" duration="231000" />
       <workItem from="1593229597343" duration="842000" />
-      <workItem from="1593232716850" duration="1442000" />
+      <workItem from="1593232716850" duration="4445000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1593234199307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593234199307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,14 +210,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593183799733" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593234126920">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593234286443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593234126920" />
-    <state x="832" y="417" width="256" height="297" key="Github.ShareDialog" timestamp="1593233953480">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593234286443" />
+    <state x="832" y="417" width="256" height="297" key="Github.ShareDialog" timestamp="1593234321495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="832" y="417" width="256" height="297" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593233953480" />
+    <state x="832" y="417" width="256" height="297" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593234321495" />
     <state x="816" y="224" key="Github.UntrackedFilesDialog" timestamp="1593220352542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593233855267" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593233886913">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593234227995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593233886913" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593234227995" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593142851425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
